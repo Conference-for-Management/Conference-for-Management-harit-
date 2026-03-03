@@ -31,3 +31,6 @@ build/
 
 ### VS Code ###
 .vscode/
+
+node_modules/
+keynote-mock-server/node_modules/
