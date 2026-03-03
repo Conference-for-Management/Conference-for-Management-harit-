@@ -1,0 +1,54 @@
+{
+  "keynotes": [
+    {
+      "id": 1,
+      "firstName": "Alice",
+      "lastName": "Johnson",
+      "email": "alice.johnson@example.com",
+      "bio": "Expert in distributed systems and cloud architecture with 15 years of experience.",
+      "topic": "The Future of Cloud-Native Applications",
+      "organization": "TechCorp Inc.",
+      "photoUrl": "https://i.pravatar.cc/150?img=1"
+    },
+    {
+      "id": 2,
+      "firstName": "Bob",
+      "lastName": "Smith",
+      "email": "bob.smith@example.com",
+      "bio": "AI researcher and author of three bestselling books on machine learning.",
+      "topic": "Artificial Intelligence in the Modern Enterprise",
+      "organization": "AI Research Labs",
+      "photoUrl": "https://i.pravatar.cc/150?img=2"
+    },
+    {
+      "id": 3,
+      "firstName": "Clara",
+      "lastName": "Moreau",
+      "email": "clara.moreau@example.com",
+      "bio": "Open-source advocate and core contributor to several major Java frameworks.",
+      "topic": "Building Resilient Microservices with Spring Boot",
+      "organization": "Open Source Foundation",
+      "photoUrl": "https://i.pravatar.cc/150?img=3"
+    },
+    {
+      "id": 4,
+      "firstName": "David",
+      "lastName": "Chen",
+      "email": "david.chen@example.com",
+      "bio": "DevOps engineer specializing in Kubernetes and container orchestration.",
+      "topic": "Zero-Downtime Deployments with Kubernetes",
+      "organization": "CloudOps Solutions",
+      "photoUrl": "https://i.pravatar.cc/150?img=4"
+    },
+    {
+      "id": 5,
+      "firstName": "Emma",
+      "lastName": "Wilson",
+      "email": "emma.wilson@example.com",
+      "bio": "Cybersecurity expert with a focus on API security and identity management.",
+      "topic": "Securing REST APIs in a Microservices World",
+      "organization": "SecureNet Global",
+      "photoUrl": "https://i.pravatar.cc/150?img=5"
+    }
+  ]
+}
